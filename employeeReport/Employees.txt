@@ -1,0 +1,8 @@
+Employee:Emil Post:111-11-1111
+Clerical worker:Clara Barton:222-22-2222
+Programmer:Grace Murray Hopper:333-33-3333:Assembly:Fortran:Cobol
+Programmer:Donald Ervin Knuth:444-44-4444:Assembly:C
+Programmer:William Nelson Joy:555-55-5555:Java:C:csh:Java:Common Lisp
+Web developer:Sir Timothy John Berners-Lee:666-66-6666:HTML:JavaScript:Php:ActionScript
+Contract programmer:Richard Matthew Stallman:777-77-7777:Scheme:Bash:Scheme
+Contract programmer:Shafrira Goldwasser:888-88-8888:SML:Prolog:Java:Haskell

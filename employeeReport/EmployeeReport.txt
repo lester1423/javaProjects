@@ -1,0 +1,24 @@
+Employee Emil Post with SSN 111-11-1111 has salary $35,000.00
+Clerical worker Clara Barton with SSN 222-22-2222 has salary $45,000.00
+Programmer Grace Murray Hopper with SSN 333-33-3333 has salary $80,000.00 and knows Assembly, Fortran, and Cobol
+Programmer Donald Ervin Knuth with SSN 444-44-4444 has salary $75,000.00 and knows Assembly and C
+Programmer William Nelson Joy with SSN 555-55-5555 has salary $88,000.00 and knows Java, C, csh, and Common Lisp
+Web developer Sir Timothy John Berners-Lee with SSN 666-66-6666 has salary $85,000.00 and knows HTML, JavaScript, Php, and ActionScript
+Contract programmer Richard Matthew Stallman with SSN 777-77-7777 has salary $70,000.00 and knows Scheme and Bash
+Contract programmer Shafrira Goldwasser with SSN 888-88-8888 has salary $70,000.00 and knows SML, Prolog, Java, and Haskell
+
+Number of employees: 8
+Total of employee salaries: $548,000.00
+Average salary of employees: $68,500.00
+
+Number of programmers: 6
+Total of programmer salaries: $468,000.00
+Average salary of programmers: $78,000.00
+
+Number of Java programmers: 2
+Total of Java programmer salaries: $158,000.00
+Average salary of Java programmers: $79,000.00
+
+Number of Ocaml programmers: 0
+Total of Ocaml programmer salaries: $0.00
+
